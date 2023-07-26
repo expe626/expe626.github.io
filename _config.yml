@@ -84,8 +84,8 @@ gitalk:
   enable: true
   owner: 'expe626'
   repo: 'expe626.github.io'
-  client_id: 'Iv1.90f876587e41d8e0'
-  client_secret: '38b4109e797758ea5d2c8a0e98d6995b329d178f'
+  client_id: '8082b08fa996cfa382c0'
+  client_secret: '2b18824cc639bc8283450e73ce0c89ba0112b9d2'
 
 
 
