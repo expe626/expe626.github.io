@@ -91,10 +91,9 @@ gitalk:
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: e6a13a93288708d3dee567a97fbfb3df
+# ba_track_id: e6a13a93288708d3dee567a97fbfb3df
 # Google Analytics
-ga_track_id: 'UA-180536439-1'            # Format: UA-xxxxxx-xx
-ga_domain: expe626.github.io
+ga_track_id: 'G-JY7EL8CYH5'            # Format: UA-xxxxxx-xx
 
 
 
